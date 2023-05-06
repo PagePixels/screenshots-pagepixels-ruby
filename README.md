@@ -32,7 +32,7 @@ require 'screenshots_pagepixels'
 ## Usage
 The `ScreenshotsPagepixels` RubyGem provides a simple and intuitive way to interface with the PagePixels API. The `ScreenshotsPagepixels::Client` class provides the following methods.
 
-Learn more about configuring your screenshots for your needs by here:
+Learn more about configuring your screenshot options here: 
 
 https://pagepixels.com/app/documentation#api-options
 
@@ -48,7 +48,7 @@ client.snap(options)
 ```
 
 ### `create_screenshot_config(options = {})`
-Creates a new screenshot configuration, which can include a automatically recurring schedule, multi-step configurations, and more. 
+Creates a new screenshot configuration, which can include an automatically recurring schedule, multi-step configurations, and more. 
 
 Learn more about multi-step (click links, complete forms, login to websites, etc) functionality here: 
 
