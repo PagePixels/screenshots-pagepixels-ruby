@@ -187,6 +187,10 @@ The following options are available for scheduling:
 ## Multi-Step Screenshots
 PagePixels also provides the ability to use multi-step functionality to complete forms, navigate to different pages, click links and buttons, and login to your favorite websites prior to taking your screenshot.
 
+Learn more about how to configure multi-step actions for your screenshots here: 
+
+https://pagepixels.com/app/documentation#multi-step-screenshots
+
 The following actions are available for use with the multi-step functionality:
 
 | Action                   | Example                                                            |
